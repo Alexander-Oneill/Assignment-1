@@ -1,0 +1,42 @@
+body {
+    Margin: 0;
+    font-family: arial;
+} 
+
+.section-1 {
+    background-color: rgb(73,18,246,255);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 0;
+}
+
+input[type='button'] {
+    padding: 10px 15px;
+    border: 0;
+    border-radius: 15px;
+    margin: 0;
+}
+
+a:visited{
+    color: rgb(175, 173, 173)
+}
+
+a:hover{
+    color:rgb(161, 20, 161)
+}
+
+.section-2 {
+    background-color: rgb(74, 43, 209);
+    color: white;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+}
+
+.button {
+    padding: 35 80 35 80;
+    border: 0;
+    border-radius:50px;
+}

@@ -1,0 +1,26 @@
+.headline-1 {
+    font-size: 20px;
+    padding: 0 150px 0 0
+}
+
+.headline-2 {
+    font-size: 50px;
+}
+
+.headline-3 {
+    font-size: 30px;
+}
+
+.headline-4 {
+    font-size: 15px;
+    color: rgb(163, 163, 163);
+}
+
+.headline-5 {
+    font-size: 40px;
+}
+
+.headline-6 {
+    font-size: 20px;
+    color: rgb(163, 163, 163);
+}
